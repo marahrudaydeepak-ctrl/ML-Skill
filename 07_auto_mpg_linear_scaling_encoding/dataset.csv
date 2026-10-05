@@ -1,0 +1,6 @@
+mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin
+30,4,140,90,2400,16,78,1
+25,6,200,120,3000,15,76,1
+20,8,300,150,3600,14,75,1
+35,4,110,80,2100,17,80,2
+40,4,100,70,2000,18,81,3

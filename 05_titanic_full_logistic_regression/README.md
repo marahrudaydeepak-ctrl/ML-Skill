@@ -1,2 +1,3 @@
 # Titanic Survival — Full Logistic Regression Pipeline
-Includes probabilities, threshold analysis and classification metrics.
+
+Complete preprocessing and Logistic Regression classification with evaluation metrics and ROC-AUC.

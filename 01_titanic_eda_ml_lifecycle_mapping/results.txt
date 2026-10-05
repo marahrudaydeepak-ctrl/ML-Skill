@@ -1,0 +1,1 @@
+Example: accuracy about 0.89 and ROC-AUC about 0.91 on the compact demonstration dataset.
