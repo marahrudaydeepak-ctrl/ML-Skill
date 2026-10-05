@@ -1,0 +1,1 @@
+Quality classes: <=5 low, 6 medium, >=7 high. Both requested classifiers are trained and compared.

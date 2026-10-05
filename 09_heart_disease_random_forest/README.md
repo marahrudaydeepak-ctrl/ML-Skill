@@ -1,2 +1,3 @@
-# Heart Disease — Random Forest Ensemble
-Random Forest classification with preprocessing and balanced classes.
+# Heart Disease — Random Forest Ensemble Project
+
+Random Forest ensemble classification with feature importance.

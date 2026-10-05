@@ -1,0 +1,1 @@
+Severity classes: 0 normal, 1 prediabetes range, 2 diabetes range.

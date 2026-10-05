@@ -1,0 +1,1 @@
+Feature engineering includes is_senior and weekly_income_proxy. Example accuracy is about 0.82.
